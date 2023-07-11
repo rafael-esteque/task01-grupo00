@@ -9,6 +9,7 @@ Este comando serve para alterar a base da ramificação do commit para outra, fa
 ### sintaxe
 git rebase master/main
 ### aplicação
+TESTE
 
 
 ## git cherry pick
