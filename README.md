@@ -26,13 +26,13 @@ git rebase master/main
 
 É usado para combinar várias confirmações (commits) em uma única confirmação. Você pode fazer isso a qualquer momento (usando o recurso "Interactive Rebase" do Git), embora seja mais frequentemente feito ao mesclar ramificações.
 
-fonte: https://www.git-tower.com/learn/git/faq/git-squash/
+Fonte: https://www.git-tower.com/learn/git/faq/git-squash/
 
 ### sintaxe
 
 A sintaxe básica do comando "git squash" envolve o uso do comando "git rebase -i <\commit>"
 
-fonte: https://imasters.com.br/desenvolvimento/como-fazer-squash-de-commits-no-git/
+Fonte: https://imasters.com.br/desenvolvimento/como-fazer-squash-de-commits-no-git/
 
 ### aplicação
 Podemos fazer isso iniciando uma sessão de Rebase Interativa:
@@ -43,5 +43,5 @@ Uma janela do editor será aberta onde você poderá escolher como deseja manipu
 1°. "Combine 3 into 1"
 2° Irá aparecer 3 "pick". O segundo e terceiro "pick" troca por "squash"
 
-fonte: https://www.git-tower.com/learn/git/faq/git-squash/
+Fonte: https://www.git-tower.com/learn/git/faq/git-squash/
 
