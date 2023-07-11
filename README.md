@@ -22,7 +22,7 @@ git rebase master/main
 
 ### sintaxe: git revert [--[no-]edit] [-n] [-m <número-pai>] [-s] [-S[<keyid>]] <commit>… git revert (--continue | - -pular | --abortar | --quit)
 
-### aplicação:  O git revert é usado para registrar alguns novos commits e reverter o efeito de alguns commits anteriores (geralmente apenas um com falha).Fonte:https://git-scm.com/docs/git-revert
+### aplicação:  O git revert é usado para registrar alguns novos commits e reverter o efeito de alguns commits anteriores (geralmente apenas um com falha).Fonte:<https://git-scm.com/docs/git-revert>
 
 ## git squash
 ### funcionamento
